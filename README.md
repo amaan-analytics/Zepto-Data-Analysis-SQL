@@ -67,4 +67,5 @@ The full SQL script, containing all data cleaning and analysis queries, can be f
 
 ---
 *Connect with me on LinkedIn: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/amaan-ul-haq-33bbaa380/)]*
+
 *Created by: `amaan_analytics`*
